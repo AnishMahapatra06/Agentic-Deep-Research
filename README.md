@@ -170,7 +170,6 @@ predictions/final_agent.jsonl
 
 ---
 
-## Final Output
 
 ## Final Output
 
