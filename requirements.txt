@@ -1,0 +1,11 @@
+faiss-cpu
+sentence-transformers
+transformers
+rank-bm25
+google-genai
+numpy
+pandas
+torch
+tqdm
+requests
+PyPDF2
