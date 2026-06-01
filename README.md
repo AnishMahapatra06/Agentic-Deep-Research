@@ -136,7 +136,7 @@ ArXiv Papers
  Answer Generation
       │
       ▼
-final_agent.jsonl
+ final_agent.jsonl
 ```
 
 ---
